@@ -28,25 +28,10 @@ Early concepts, prototypes, and project planning materials.
 
 ---
 
-## Research Files
+## 📚 Research Library
 
-📁 Reports Folder
+### 📄 Research Reports
+Click the **reports** folder on the left to access the research papers and scientific briefs.
 
-Contains the main research reports.
-
-📁 Notes Folder
-
-Contains project notes and early ideas.
-### Neuroaesthetics, Trauma & Inflammation Report
-
-A research report exploring the relationship between aesthetics, nervous system regulation, trauma, and healing.
-
-### Neuroprotection & Cognitive Resilience Brief
-
-A scientific overview of mechanisms supporting long-term brain health and recovery.
-
----
-
-## Project Goal
-
-The goal of this project is to investigate how neuroaesthetic principles may support health, accessibility, trauma recovery, and cognitive resilience.
+### 📝 Development Notes
+Click the **notes** folder on the left to explore project notes, prototypes, and early concepts.
