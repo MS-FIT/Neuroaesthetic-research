@@ -30,6 +30,13 @@ Early concepts, prototypes, and project planning materials.
 
 ## Research Files
 
+📁 Reports Folder
+
+Contains the main research reports.
+
+📁 Notes Folder
+
+Contains project notes and early ideas.
 ### Neuroaesthetics, Trauma & Inflammation Report
 
 A research report exploring the relationship between aesthetics, nervous system regulation, trauma, and healing.
