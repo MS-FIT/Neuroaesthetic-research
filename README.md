@@ -16,8 +16,10 @@ If you are new here, start below.
 
 If you're visiting for the first time, follow this reading path:
 
-1. 📄 Review the Neuroaesthetics, Trauma & Inflammation Report below.
-2. 🧠 Review the Neuroprotection & Cognitive Resilience Brief below.
+1. 📄 reports/Neuroaesthetics_Trauma_Inflammation_Report_Michele_Serrano.pdf
+
+2. 🧠 reports/Neuroprotection%20and%20Cognitive%20Resilience%20-%20A%20Scientific%20Research%20Brief.pdf
+
 3. 📝 Explore the Development Notes folder.
 
 ### 1. Project Overview
