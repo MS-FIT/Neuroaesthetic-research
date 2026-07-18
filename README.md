@@ -12,7 +12,13 @@ If you are new here, start below.
 
 ---
 
-## Start Here
+## 🚀 Start Here
+
+If you're visiting for the first time, follow this reading path:
+
+1. 📄 PASTE LINK
+2. 🧠 [NeuroproK
+3. 📝 Development Notes
 
 ### 1. Project Overview
 Learn what this research project explores and why it matters.
@@ -30,15 +36,16 @@ Early concepts, prototypes, and project planning materials.
 
 ## 📚 Research Library
 
-### 📄 Neuroaesthetics, Trauma & Inflammation
+📄 Neuroaesthetics, Trauma & Inflammation
 
-(https://github.com/MS-FIT/Neuroaesthetic-research/blob/main/reports/Neuroaesthetics_Trauma_Inflammation_Report_Michele_Serrano.pdf)
+[📖 Open Report][(https://github.com/MS-FIT/Neuroaesthetic-research)](https://github.com/MS-FIT/Neuroaesthetic-research/blob/main/reports/Neuroaesthetics_Trauma_Inflammation_Report_Michele_Serrano.pdf
+)
 
 Research exploring connections between aesthetics, trauma, healing, and inflammation.
 
-### 🧠 Neuroprotection & Cognitive Resilience
+🧠 Neuroprotection & Cognitive Resilience
 
-(https://github.com/MS-FIT/Neuroaesthetic-research/blob/main/reports/Neuroprotection%20and%20Cognitive%20Resilience%20-%20A%20Scientific%20Research%20Brief)
+[📖 Open Brief][(https://github.com/MS-FIT/Neuroaesthetic-research)](https://github.com/MS-FIT/Neuroaesthetic-research/blob/main/reports/Neuroprotection%20and%20Cognitive%20Resilience%20-%20A%20Scientific%20Research%20Brief)
 
 Scientific brief examining brain resilience and protective mechanisms.
 
