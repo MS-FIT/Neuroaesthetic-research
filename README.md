@@ -32,13 +32,13 @@ Early concepts, prototypes, and project planning materials.
 
 ### 📄 Neuroaesthetics, Trauma & Inflammation
 
-[PASTE-FIRST-LINK-HERE](https://github.com/MS-FIT/Neuroaesthetic-research/blob/main/reports/Neuroaesthetics_Trauma_Inflammation_Report_Michele_Serrano.pdf)
+(https://github.com/MS-FIT/Neuroaesthetic-research/blob/main/reports/Neuroaesthetics_Trauma_Inflammation_Report_Michele_Serrano.pdf)
 
 Research exploring connections between aesthetics, trauma, healing, and inflammation.
 
 ### 🧠 Neuroprotection & Cognitive Resilience
 
-[PASTE-SECOND-LINK-HERE](https://github.com/MS-FIT/Neuroaesthetic-research/blob/main/reports/Neuroprotection%20and%20Cognitive%20Resilience%20-%20A%20Scientific%20Research%20Brief)
+(https://github.com/MS-FIT/Neuroaesthetic-research/blob/main/reports/Neuroprotection%20and%20Cognitive%20Resilience%20-%20A%20Scientific%20Research%20Brief)
 
 Scientific brief examining brain resilience and protective mechanisms.
 
