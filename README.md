@@ -42,7 +42,7 @@ Early concepts, prototypes, and project planning materials.
 
 👉 ...
 
-[📖 Open Report][(https://github.com/MS-FIT/Neuroaesthetic-research)](https://github.com/MS-FIT/Neuroaesthetic-research/blob/main/reports/Neuroaesthetics_Trauma_Inflammation_Report_Michele_Serrano.pdf)
+[📖 Open Report](reports/Neuroaesthetics_Trauma_Inflammation_Report_Michele_Serrano.pdf)
 
 Research exploring connections between aesthetics, trauma, healing, and inflammation.
 
@@ -50,7 +50,7 @@ Research exploring connections between aesthetics, trauma, healing, and inflamma
 
 👉 ...
 
-[📖 Open Brief]https://github.com/MS-FIT/Neuroaesthetic-research/blob/main/reports/Neuroprotection%20and%20Cognitive%20Resilience%20-%20A%20Scientific%20Research%20Brief
+[📖 Open Brief](reports/Neuroprotection%20and%20Cognitive%20Resilience%20-%20A%20Scientific%20Research%20Brief.pdf)
 
 Scientific brief examining brain resilience and protective mechanisms.
 
