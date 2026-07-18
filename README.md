@@ -16,9 +16,9 @@ If you are new here, start below.
 
 If you're visiting for the first time, follow this reading path:
 
-1. 📄 Review the Neuroaesthetics, Trauma & Inflammation Report below.
-2. 🧠 Review the Neuroprotection & Cognitive Resilience Brief below.
-3. 📝 Explore the Development Notes folder.
+1. 📄 Open the Neuroaesthetics, Trauma & Inflammation Report
+2. 🧠 Open the Neuroprotection & Cognitive Resilience Brief
+3. 📝 Explore the Development Notes folder
 
 ### 1. Project Overview
 Learn what this research project explores and why it matters.
@@ -36,13 +36,17 @@ Early concepts, prototypes, and project planning materials.
 
 ## 📚 Research Library
 
-📄 Neuroaesthetics, Trauma & Inflammation
+### 📄 Neuroaesthetics, Trauma & Inflammation
+
+👉 ...
 
 [📖 Open Report](https://github.com/MS-FIT/Neuroaesthetic-research)
 
 Research exploring connections between aesthetics, trauma, healing, and inflammation.
 
-🧠 Neuroprotection & Cognitive Resilience
+### 🧠 Neuroprotection & Cognitive Resilience
+
+👉 ...
 
 [📖 Open Brief](https://github.com/MS-FIT/Neuroaesthetic-research)
 
