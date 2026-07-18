@@ -16,9 +16,9 @@ If you are new here, start below.
 
 If you're visiting for the first time, follow this reading path:
 
-1. 📄 PASTE LINK
-2. 🧠 [NeuroproK
-3. 📝 Development Notes
+1. 📄 Review the Neuroaesthetics, Trauma & Inflammation Report below.
+2. 🧠 Review the Neuroprotection & Cognitive Resilience Brief below.
+3. 📝 Explore the Development Notes folder.
 
 ### 1. Project Overview
 Learn what this research project explores and why it matters.
