@@ -30,8 +30,18 @@ Early concepts, prototypes, and project planning materials.
 
 ## 📚 Research Library
 
-### 📄 Research Reports
-Click the **reports** folder on the left to access the research papers and scientific briefs.
+### 📄 Neuroaesthetics, Trauma & Inflammation
+
+[PASTE-FIRST-LINK-HERE](https://github.com/MS-FIT/Neuroaesthetic-research/blob/main/reports/Neuroaesthetics_Trauma_Inflammation_Report_Michele_Serrano.pdf)
+
+Research exploring connections between aesthetics, trauma, healing, and inflammation.
+
+### 🧠 Neuroprotection & Cognitive Resilience
+
+[PASTE-SECOND-LINK-HERE](https://github.com/MS-FIT/Neuroaesthetic-research/blob/main/reports/Neuroprotection%20and%20Cognitive%20Resilience%20-%20A%20Scientific%20Research%20Brief)
+
+Scientific brief examining brain resilience and protective mechanisms.
 
 ### 📝 Development Notes
-Click the **notes** folder on the left to explore project notes, prototypes, and early concepts.
+
+Open the **notes** folder on the left to explore project notes and prototypes.
