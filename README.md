@@ -1,12 +1,12 @@
-# Neuroaesthetic Research
+# Neuroaesthetic & Autoimmne Disease Research
 
-Exploring how art, aesthetics, and neuroscience may contribute to healing, recovery, resilience, and accessibility.
+Exploring how art, aesthetics, and neuroscience may contribute to healing, recovery, resilience, and accessibility; specifically Auto Immune Diseases.
 
 ---
 
 ## Welcome
 
-This repository collects research, reports, and project notes related to neuroaesthetics, trauma recovery, cognitive resilience, and the relationship between artistic experiences and human health.
+This repository collects research, reports, and project notes related to neuroaesthetics, trauma recovery, Autoimmune Diseases, cognitive resilience, and the relationship between artistic experiences and human health.
 
 If you are new here, start below.
 
@@ -16,9 +16,9 @@ If you are new here, start below.
 
 If you're visiting for the first time, follow this reading path:
 
-1. 📄 reports/Neuroaesthetics_Trauma_Inflammation_Report_Michele_Serrano.pdf
+1. 📄 The Body's Memory: How Unprocessed Emotional Trauma and Chronic Stress Contribute to Inflammation and Autoimmune Disease
 
-2. 🧠 reports/Neuroprotection%20and%20Cognitive%20Resilience%20-%20A%20Scientific%20Research%20Brief.pdf
+2. 🧠 Neuroaesthetics, Trauma, Chronic Stress & Inflammation: A Scientific-Wellness Research Report
 
 3. 📝 Explore the Development Notes folder.
 
@@ -28,8 +28,8 @@ Learn what this research project explores and why it matters.
 ### 2. Neuroaesthetics, Trauma & Inflammation
 Research exploring connections between aesthetics, trauma, and inflammatory processes.
 
-### 3. Neuroprotection & Cognitive Resilience
-Scientific brief examining brain resilience and protective mechanisms.
+### 3. Neuroaesthetics, Trauma, Chronic Stress & Inflammation
+Scientific brief examining wellness, autoiuume disease and healing processes through Neuroaesthetics.
 
 ### 4. Development Notes
 Early concepts, prototypes, and project planning materials.
@@ -38,19 +38,19 @@ Early concepts, prototypes, and project planning materials.
 
 ## 📚 Research Library
 
-### 📄 Neuroaesthetics, Trauma & Inflammation
+### 📄 The Bodys Memory
 
 👉 ...
 
-[📖 Open Report](reports/Neuroaesthetics_Trauma_Inflammation_Report_Michele_Serrano.pdf)
+[📖 Open Report]
 
 Research exploring connections between aesthetics, trauma, healing, and inflammation.
 
-### 🧠 Neuroprotection & Cognitive Resilience
+### 🧠 Neuroaesthetics, Trauma & Inflammation
 
 👉 ...
 
-[📖 Open Brief](reports/Neuroprotection%20and%20Cognitive%20Resilience%20-%20A%20Scientific%20Research%20Brief.pdf)
+[📖 Open Brief]
 
 Scientific brief examining brain resilience and protective mechanisms.
 
